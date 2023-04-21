@@ -1,4 +1,4 @@
-package JavaPractece;
+package javaProgrames;
 
 public class MissingNumbersInArray {
 	public static void main(String[] args) {
